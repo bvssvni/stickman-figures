@@ -6,7 +6,7 @@ A place where users of Stickman &amp; Elemento can share figures.
 This is how you get started (it is free):
 
 1. Create an account on Github.
-2.Visit the link above.
+2. Visit the link above.
 3. Click "Clone on Windows" to download software.
 4. Put the destination in the My Documents\stickman\packages and a new folder.
 
