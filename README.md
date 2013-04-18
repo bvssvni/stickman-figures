@@ -17,6 +17,7 @@ It is the first time I attempt to use it with multiple people,
 so it will be a learning experience for me as well.
 
 My idea of structure is as following:
+
 1. Each person gets a folder with their name which they can organize as they like.
 If we find a clever way to do organize it differently, or work in a group,
 we can create new folders.
